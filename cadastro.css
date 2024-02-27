@@ -1,0 +1,99 @@
+legend{
+    background-color:greenyellow;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: bold;
+    border-radius: 1.25rem;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 0.5rem;
+
+    
+}
+
+fieldset{
+    background-image:url("../imagens/plano_de_fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 656px 410px;
+
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 1.25rem;
+    border-width: 5px;
+    border-style:solid;
+    border-color:black;
+    padding: 1rem;
+}
+
+#dados_pessoais{
+    width: 39rem;
+    height:25rem;
+    float: left;
+}
+
+#endereço{
+    width: 21rem;
+    height:25rem;
+    float: left;
+
+}
+
+#contato{
+    width: 19rem;
+    height:19rem;
+    clear: right;
+}
+
+
+p{
+    background-color: springgreen;
+    font-size: 15px;
+    border-color:black;
+    border-style: solid;
+    border-radius: 1.25rem;
+    padding: 0.5rem;
+    width:fit-content;
+    display:inline-block;
+}
+
+#body{
+    background-color: rgba(255,255,255,0.1);
+    font-size: 15px;
+    border-style:none;
+    border-radius: 1.25rem;
+    padding: 0.5rem;
+    display:inline-block;
+}
+
+input,select,option{
+    background-color:rgba(217, 219, 211, 0.88);
+    border-radius: 10px;    
+}
+
+
+button{    
+    padding: 0.5rem;
+    display:inline-flex;
+    border-radius: 5px;
+    background-color:greenyellow;
+}
+
+.button:hover{
+    text-decoration: solid;
+    background-color: green;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+#orgao_emissor{
+    width:10rem
+}
+
+#país{
+    width:10rem
+}
+
+#numero{
+    width:3rem
+}

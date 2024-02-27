@@ -1,0 +1,12 @@
+h1{
+    background-color:greenyellow;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: bold;
+    border-radius: 1.25rem;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 0.5rem;
+    
+}

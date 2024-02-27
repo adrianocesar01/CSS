@@ -1,0 +1,38 @@
+dd{
+    display: list-item;
+}
+
+th{
+    background-color:greenyellow;
+    font-size: 30px;
+}
+
+h1, dt{
+    background-color:springgreen;
+    font-size: 20px;
+    padding: 0.5rem;
+    display: flex;
+    width: fit-content;
+    font-weight: bolder;
+    border-radius: 0.5rem;
+}
+
+table{
+    background-color: darkgray;
+}
+
+
+a:hover{
+    text-decoration: solid;
+    background-color: green;
+}
+
+.href{  
+    background-color:silver;
+    color: black;
+    text-decoration: none;
+    border-color:black;
+    border-style: solid;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
